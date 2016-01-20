@@ -57,6 +57,7 @@ docs/_build/
 
 # PyBuilder
 target/
+<<<<<<< HEAD
 
 # txt file
 *.txt
@@ -67,3 +68,5 @@ target/
 
 # jpeg file
 *.jpg
+=======
+>>>>>>> 4850daf2750d5ca8edc3dd34b5b59ca666692be3
